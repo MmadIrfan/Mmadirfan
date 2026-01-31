@@ -24,10 +24,10 @@ const irfan = {
 };
 ```
 
-🎓 Fresh graduate dengan passion di **web development** dan **IT solutions**  
-💼 Berpengalaman di **frontend development**, **system administration**, dan **data management**  
-🌱 Sedang mendalami **React ecosystem** dan **modern web technologies**  
-🔭 Terbuka untuk kolaborasi di **web projects** dan **open source contributions**
+🎓 Fresh graduate with a passion for **web development** and **IT solutions**  
+💼 Experienced in **frontend development**, **system administration**, and **data management**  
+🌱 Currently diving deep into **React ecosystem** and **modern web technologies**  
+🔭 Open to collaboration on **web projects** and **open source contributions**
 
 ---
 
