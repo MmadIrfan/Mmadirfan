@@ -64,9 +64,9 @@ I enjoy building clean user interfaces, optimizing performance, and solving real
 ---
 
 ## 📊 GitHub Stats
-![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mmadirfan&show_icons=true&theme=tokyonight)
+![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MmadIrfan&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmadirfan&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MmadIrfan&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
